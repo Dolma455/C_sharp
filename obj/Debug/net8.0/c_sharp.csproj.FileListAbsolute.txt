@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\c_sharp\bin\Debug\net8.0\c_sharp.exe
+C:\Users\Admin\OneDrive\Desktop\c_sharp\bin\Debug\net8.0\c_sharp.deps.json
+C:\Users\Admin\OneDrive\Desktop\c_sharp\bin\Debug\net8.0\c_sharp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\c_sharp\bin\Debug\net8.0\c_sharp.dll
+C:\Users\Admin\OneDrive\Desktop\c_sharp\bin\Debug\net8.0\c_sharp.pdb
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.dll
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\refint\c_sharp.dll
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.pdb
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\c_sharp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\c_sharp\obj\Debug\net8.0\ref\c_sharp.dll
